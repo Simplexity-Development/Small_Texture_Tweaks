@@ -1,3 +1,9 @@
-# High contrast pottery
-This project just adjusts the colors of the decorated pots and sherds to increase the contrast
-This makes the textures easier to see, and look cooler
+# Small Tweaks
+This is the repo for multiple small tweak resource packs
+These resource packs are:
+
+## High Contrast Pottery
+Gives decorated pots and sherds a higher contrast so that it's easier to see what the pattern is. Also looks cooler in my opinion
+
+## Accurately Colored Terracotta
+Adjusts dyed terracotta to accurately refelct their names

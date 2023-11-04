@@ -2,8 +2,8 @@
   "pack": {
     "pack_format": 18,
     "description": {
-      "text": "Higher contrast decorated pot and sherd textures",
-      "color": "gold"
+      "text": "Adjusts the bookshelf texture so none of the books are falling over",
+      "color": "aqua"
     },
     "supported_formats": {
       "min_inclusive": 18,
